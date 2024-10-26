@@ -1,5 +1,5 @@
 # Study-Scheduler
-A simple, effective tool to help students manage their study workload. (Can be used on a Linux environment)
+A simple, effective tool to help students manage their study workload. (Can be used only on a Linux environment)
 
 -You can directly access the app by "scheduler.exe". 
 
